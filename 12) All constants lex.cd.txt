@@ -16,3 +16,4 @@ f = fopen(file,"r"); yyin = f;
 yylex();
 printf("Number of Constants : %d\n", cons); fclose(yyin);
 }
+
