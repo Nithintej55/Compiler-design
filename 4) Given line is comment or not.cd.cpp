@@ -34,5 +34,4 @@ printf("\n it is not a comment.");
 else
 printf("\n it is not a comment.");
 
- }     
-]
+ }   
