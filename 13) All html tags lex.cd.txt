@@ -15,3 +15,4 @@ f = fopen(file,"r"); yyin = f;
 yylex();
 printf("\n Number of html tags: %d",tags); fclose(yyin);
 }
+
