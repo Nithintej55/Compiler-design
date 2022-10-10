@@ -22,3 +22,4 @@ printf("number of identifiers = %d\n", count_id);
 printf("number of keywords = %d\n", count_key); 
 fclose(yyin);
 }
+
