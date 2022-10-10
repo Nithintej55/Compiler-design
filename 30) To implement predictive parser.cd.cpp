@@ -103,6 +103,7 @@ int main()
 	printf("Sentence\n");
 	a:
 	getch();
+	
 }
 
 
