@@ -119,6 +119,3 @@ while(!(stack[i]=='$'&&input[0]=='$'))
 	getch();
 }
 
-
-
-
