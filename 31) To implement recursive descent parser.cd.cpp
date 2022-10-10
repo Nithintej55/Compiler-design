@@ -49,3 +49,5 @@ printf("\nThe string is rejected");
 getch();
 }
 
+
+
