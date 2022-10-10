@@ -84,7 +84,6 @@ check();
 void check()
 
 {
-
 int flag=0;
 
 temp2[0]=stack[st_ptr];
